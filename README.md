@@ -5,4 +5,4 @@ Here are two folders containing 224 * 224 deep learning training images of Japan
 
 I've been studying how to use drone images and deep learning as a method to detect invasive plant species. 
 
-I hope to add other invasive plant species images to this collection soon. 
+I hope to add other invasive plant images to this collection soon. 
